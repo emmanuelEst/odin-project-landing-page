@@ -1,0 +1,36 @@
+/* closes the gap between the top of the page and the next section, the hero section  */
+ul {
+    margin-top: 0px;
+}
+
+/* closes all gaps created by the body tag */
+body {
+    margin: 0px
+}
+
+.top-banner {
+    background-color: #1F2937;
+}
+
+.logo-text {
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+.hero-main-text {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+li,
+.hero-secondary-text {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.right-featured-content {
+    width: 300px;
+    height: 200px;
+    background-color: #E5E7EB;
+}
