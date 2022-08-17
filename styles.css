@@ -102,3 +102,15 @@ button {
     justify-content: center;
     align-items: center;
 }
+
+.random-info-banner {
+    display: flex;
+    flex-direction: column;
+}
+
+.random-subheader {
+    color: #1F2937;
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+}
