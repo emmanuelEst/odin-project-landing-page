@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;500;700;900&display=swap');
 
 * {
     font-family: 'Roboto', sans-serif;
@@ -106,6 +106,7 @@ button {
 .random-info-banner {
     display: flex;
     flex-direction: column;
+    margin-bottom: 75px;
 }
 
 .random-subheader {
@@ -139,4 +140,20 @@ button {
 
 .random-subtext {
     text-align: center;
+}
+
+.quote-banner {
+    background-color: #E5E7EB;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.quote-author {
+    font-size: 24px;
+    font-weight: 500;
 }
