@@ -113,6 +113,7 @@ button {
     font-weight: 700;
     font-size: 36px;
     text-align: center;
+    margin-top: 35px;
 }
 
 .random-square-card {
@@ -134,4 +135,8 @@ button {
     width: 160px;
     margin-top: 35px;
     row-gap: 10px;
+}
+
+.random-subtext {
+    text-align: center;
 }
