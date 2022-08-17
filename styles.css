@@ -203,3 +203,14 @@ button {
     font-weight: 400;
     border: 2px solid #F9FAF8
 }
+
+.footer {
+    background-color: #1F2937;
+}
+
+.copyright-text {
+    color: #E5E7EB;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20gipx;
+}
