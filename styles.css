@@ -121,3 +121,17 @@ button {
     border: 3.5px solid #3882F6;
     border-radius: 10%;
 }
+
+.random-cards {
+    display: flex;
+    justify-content: center;
+    column-gap: 50px;
+}
+
+.individual-cards {
+    display: flex;
+    flex-direction: column;
+    width: 160px;
+    margin-top: 35px;
+    row-gap: 10px;
+}
