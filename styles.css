@@ -167,3 +167,20 @@ button {
     padding-top: 75px;
     padding-bottom: 75px;
 }
+
+.action-banner-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+.action-banner {
+    display: flex;
+    justify-content: center;
+    background-color: #3882F6;
+    align-items: center;
+    padding: 30px 100px;
+    border-radius: 10px;
+}
